@@ -1,1 +1,3 @@
-Hi I am Benson Baragu
+Git cheat sheet 
+________________
+http://www.codebind.com/linux-tutorials/basic-git-commands-list/
